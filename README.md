@@ -40,6 +40,10 @@ The creators of this project, and links to their GitHub ,  are as follows:
 
 [David Hall](https://github.com/davjhall)
 
+Special thanks to Howard Pinsky for their [tutorial on Parchment backgrounds:](https://www.youtube.com/watch?v=HdcchbCbkiw&ab_channel=HowardPinsky)
+
+Other image assets pulled from [Pixabay.com](https://pixabay.com/)
+
 ## License
 
 N/A

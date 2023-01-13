@@ -2,7 +2,8 @@
   "name": "character-creator",
   "version": "1.0.0",
   "engines": {
-    "node": "19.x"
+    "node": "19.4.x",
+    "npm": "9.3.x"
   },
   "description": "",
   "main": "server.js",
